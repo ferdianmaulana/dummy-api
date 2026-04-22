@@ -10,7 +10,7 @@ from routers import (
 
 app = FastAPI(
     title="Automotive Aftersales Dummy API",
-    description="Dummy API simulating dealer aftersales data for Indonesia market",
+    description="Dummy API simulating dealer sales and aftersales data for Indonesia market",
     version="1.0.0",
 )
 
